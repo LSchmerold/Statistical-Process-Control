@@ -1,0 +1,3 @@
+The ability to visualize data trends and outliers and to rapidly iterate on data analysis is critical to an effective workflow. To that end, I have developed programs which automatically summarize and display  diverse data in an easily repeatable and modifiable fashion.
+
+This code implements SPC, an invaluable tool for actively monitoring resource usage of various systems while accounting for the implications of repeated statistical testing. It outputs clear graphical displays and flags potentially problematic usages, enabling a rapid response and preventing undetected issues from causing ongoing problems.
